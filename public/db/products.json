@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "barcode": "CL0001",
+        "name": "Kot Ceket",
+        "price": 100,
+        "tax": 20
+    },
+    {
+        "id": 2,
+        "barcode": "CL0002",
+        "name": "Gömlek",
+        "price": 70,
+        "tax": 20
+    },
+    {
+        "id": 3,
+        "barcode": "CL0003",
+        "name": "Yelek",
+        "price": 60,
+        "tax": 20
+    },
+    {
+        "id": 4,
+        "barcode": "CL0004",
+        "name": "Kazak",
+        "price": 100,
+        "tax": 20
+    },
+    {
+        "id": 5,
+        "barcode": "CL0005",
+        "name": "Mont",
+        "price": 300,
+        "tax": 20
+    },
+    {
+        "id": 6,
+        "barcode": "CL0006",
+        "name": "Pantolon",
+        "price": 100,
+        "tax": 20
+    },
+    {
+        "id": 7,
+        "barcode": "CL0007",
+        "name": "Etek",
+        "price": 150,
+        "tax": 20
+    },
+    {
+        "id": 8,
+        "barcode": "CL0008",
+        "name": "Şal",
+        "price": 70,
+        "tax": 20
+    },
+    {
+        "id": 9,
+        "barcode": "CL0009",
+        "name": "Kravat",
+        "price": 30,
+        "tax": 20
+    },
+    {
+        "id": 10,
+        "barcode": "CL0010",
+        "name": "Çorap",
+        "price": 10,
+        "tax": 20
+    }
+]

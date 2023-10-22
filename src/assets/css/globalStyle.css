@@ -1,0 +1,12 @@
+@import url("./Quicksand.css");
+* {
+    font-family: "Quicksand" !important;
+}
+
+body {
+    margin: 0;
+}
+
+.ant-row {
+    width: 100%;
+}

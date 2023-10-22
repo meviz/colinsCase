@@ -1,0 +1,17 @@
+{
+    "token": {
+        "colorPrimary": "#131734",
+        "colorInfo": "#131734",
+        "sizeStep": 4,
+        "borderRadiusXS": 4,
+        "borderRadiusSM": 6,
+        "borderRadius": 8,
+        "wireframe": false,
+        "colorPrimaryBg": "#b0daff",
+        "colorSuccess": "#00772f",
+        "colorError": "#ef3939",
+        "colorWarning": "#ece8cb",
+        "colorLink": "#3175a2",
+        "colorPrimaryBgHover": "#e6f2ff"
+    }
+}
